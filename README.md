@@ -1,1 +1,2 @@
-# AdvancedUltrasoundImaging
+# Project Overview
+This project was completed as part of the course Advanced Ultrasound Imaging at the Technical University of Denmark (DTU). This project investigates the impact of tissue motion on the quality of B-mode images generated using Synthetic Aperture (SA) imaging. The work is based on simulations using the Field II toolbox in MATLAB and includes both point target and cyst phantom experiments, with and without motion.
